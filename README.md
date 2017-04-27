@@ -1,3 +1,5 @@
+# 博文地址：http://blog.csdn.net/notzuonotdied/article/details/70876654
+
 # 前言
 
 　　这篇博文转载修改自：[简述MVC框架模式以及在你（Android）项目中的应用](http://www.cnblogs.com/John-Chen/p/4458823.html)
@@ -9,7 +11,7 @@
 >　　如果写的有问题的地方，欢迎讨论。转载请注明出处：http://www.cnblogs.com/John-Chen/p/4458823.html
 
 　　学习中读了很多别人总结的文章，有几篇不错，推荐给大家：　
-　　
+
 　　前端之Android入门(3):MVC模式：
 　　http://isux.tencent.com/learn-android-from-zero-session3.html
 　　http://isux.tencent.com/learn-android-from-zero-session4.html
